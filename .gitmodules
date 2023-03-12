@@ -1,0 +1,18 @@
+[submodule "HW1"]
+	path = HW1
+	url = https://github.com/half-dreamer/AP1400-2-HW1.git
+[submodule "HW2"]
+	path = HW2
+	url = https://github.com/half-dreamer/AP1400-2-HW2.git
+[submodule "HW3"]
+	path = HW3
+	url = https://github.com/half-dreamer/AP1400-2-HW3.git
+[submodule "HW4"]
+	path = HW4
+	url = https://github.com/half-dreamer/AP1400-2-HW4.git
+[submodule "HW5"]
+	path = HW5
+	url = https://github.com/half-dreamer/AP1400-2-HW5.git
+[submodule "HW6"]
+	path = HW6
+	url = https://github.com/half-dreamer/AP1400-2-HW6.git
