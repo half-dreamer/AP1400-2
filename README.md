@@ -26,7 +26,7 @@ Duke Introdutory C Programming -> Stanford CS106L(standard C++ programming) -> N
 
 - 学习时间： 刷课一周，复习4天
 - 课程内容：CS106L是Stanford开设的C++语言课程，主要介绍了C++的现代特性，在基础语法上并不花时间，所以需要有一定的语言基础。CS106L是CS106B/CS106X的companion class，CS106B是以C++为基础的计算机导论课，讲了一些数据结构（？，笔者没上过，有误请指正😇），只讲一些的C++，所以CS106L可以被视为一门正儿八经的语言课，而106b/x更多关注于语言以外的内容。
-- 适合学生：没有其他的语言基础的话学起来会相对更吃力一点，推荐有其他类C语言基础的同学上。Java和C++还是挺像的，class，operator，inheritance等部分和Java基本一致，只不过在语法上有所出入；Python的话和C like的语言就差异比较大了😥学习C++之前还是建议学一学C，一些比较low level的部分基本与C一致
+- 适合学生：没有其他的语言基础的话学起来会相对更吃力一点，推荐有其他类C语言基础的同学上。Java和C++还是挺像的，class，~~operator~~，inheritance等部分和Java基本一致，只不过在语法上有所出入；Python的话和C like的语言就差异比较大了😥学习C++之前还是建议学一学C，一些比较low level的部分基本与C一致
 - Instructor介绍： CS106L的讲师并非教授，而是来自湾湾的Stanford本校学生Avery Wang，是个巨佬。好像还修了CS和数学的双学位orz
 ![image-20230301200405897](images/image-20230301200405897.png)
 
