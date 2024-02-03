@@ -73,7 +73,7 @@ C++语言：笔者对C++的理解不深，但总的来说C++的memory allocation
 
 课程部分： 有的时候会很感慨，好像随便Google找个课程都能薄纱三本大部分课程，很希望在不久的将来，能不出国门，乃至不出校门也可以上到对得起QS50的课程
 
-
+UPDATE:All HW source codes are open
 
 
 
